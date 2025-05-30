@@ -24,7 +24,6 @@ public class ScreenshotSpecific {
 		 srcFile.renameTo(trgFile);
 		 driver.quit();
 		 
-
 	}
 
 }
