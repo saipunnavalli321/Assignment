@@ -94,7 +94,7 @@ apply.click();
     } catch (Exception e) {
         System.out.println("Toast message not found.");
         e.printStackTrace();
-        apply.click();
+      
        
 
     }
